@@ -126,6 +126,7 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;//포스트 제목 밑줄 제거하기
   &:focus {
     @extend %tab-focus;
   }
