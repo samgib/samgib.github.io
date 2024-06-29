@@ -22,7 +22,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Sample Page - My Awesome Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "HoYong Son"
 description              : "An amazing website."
 url                      : "https://samgib.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
